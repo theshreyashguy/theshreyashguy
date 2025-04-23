@@ -54,4 +54,5 @@
   <a href="https://github.com/theshreyashguy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://codeforces.com/profile/shrey2003"><img src="https://img.shields.io/badge/Codeforces-1F2533?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://leetcode.com/u/shreyashjadhaoliferocks/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+ <a href="https://www.geeksforgeeks.org/user/shreyashjadhaoliferocks/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </p>
